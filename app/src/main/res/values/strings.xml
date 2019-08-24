@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Paging sample</string>
+    <string name="message_loading">Sedang memuat data lainnya</string>
+</resources>
